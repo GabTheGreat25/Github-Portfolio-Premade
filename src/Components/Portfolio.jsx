@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My Next.js Portfolio 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "My first Next.js project. I used this to learn Next.js and to create a portfolio site for myself.",
+    url: "https://portfolio-gab.vercel.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "VloggersTV",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This project was created using a combination of Tailwind, SCSS, HTML, and JS. Together, these tools enabled the creation of a modern, responsive, and functional web application.",
+    url: "https://gabthegreat25.github.io/Final-Project-ITOS322-T/",
   },
   {
-    title: "My Resume Site",
+    title: "Camera Rental",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This project was created using the MERN (MongoDB, Express, React, Node.js) stack, incorporating the powerful state management tools of Redux Toolkit and the streamlined data fetching capabilities of RTK Query.",
+    url: "https://camera-rental-fe.vercel.app/dashboard",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Everything You Need To Know About HTML5",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This project was created using HTML5, and CSS3. It is a website that provides information about HTML5.",
+    url: "https://github.com/GabTheGreat25/Everything-You-Need-To-Know-About-HTML5",
   },
 ];
 
